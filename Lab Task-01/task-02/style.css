@@ -1,0 +1,39 @@
+.cv{
+	border: 1px solid white;
+	background: white;
+	margin: auto;
+	width: 210mm;
+	height: 297mm;
+	box-shadow: 5px 5px 5px darkgray;
+
+
+}
+hr{
+	width: 640px;
+}
+p{
+	line-height: 1.2;
+}
+table,th,td{
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+ul{
+	position: absolute;
+	
+left: 420px;
+
+}
+ol{
+	position: absolute;
+	left: 400px;
+    
+}
+.style{
+	background: darkgray;
+	width: 100%;
+	height: 100%;
+}

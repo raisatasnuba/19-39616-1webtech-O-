@@ -1,0 +1,22 @@
+.mystyles{
+	background-color: white;
+	border: 1px solid black;
+	margin: auto;
+
+	width: 800px;
+	height: 1285px;
+}
+.mycolores{
+	background-color: lightgray;
+	border: 1px solid lightgray;
+	width: 190mm;
+	height: 325mm;
+	margin: auto;
+}
+sup{
+	color: red;
+}
+p{
+	color: red;
+}
+
