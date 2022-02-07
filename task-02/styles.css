@@ -1,0 +1,18 @@
+
+.mycolors{
+	background: black;
+	border: 1px solid black;
+	width: 600px;
+	height: 900px;
+	margin: auto;
+
+}
+fieldset{
+	width: 275px;
+	height: 105px;
+	color: white;
+
+}
+span{
+	color: red;
+}
