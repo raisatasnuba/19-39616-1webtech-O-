@@ -1,0 +1,27 @@
+img{
+	width: 50px;
+	height: 70px;
+}
+fieldset{
+	width: 350px;
+	height: 280px; 
+	margin: auto;
+}
+span{
+	color: red;
+}
+table,th,td{
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+div{
+	border: 1px solid black;
+	width: 650px;
+	height: 60px;
+}
+a{
+	text-align: right;
+}
